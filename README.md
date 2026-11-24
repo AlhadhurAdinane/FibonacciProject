@@ -30,3 +30,19 @@ git remote add origin git@github.com:AlhadhurAdinane/mon-premier-projet.git   # 
 git push -u origin main                 # Envoi les fichiers vers GitHub
   
 ```
+
+## Commands Git util
+## Commandes Git
+```bash
+git status                              # verifie l'atat avec git status
+
+```
+```bash
+git add .                               # Ajouter le fichier modifier
+```
+```bash
+git commit -m "Explication rapide de votre modification"  # Enregistrement des modification avec un message
+```
+```bash
+git push                               # Envoie le nouveau commit vers GitHub
+```
